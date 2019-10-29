@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lost Puppy Poster</title>
+    <style>
+      h1 {background-color: lightblue;
+          border-style: solid;}
+      body {text-align: center;}
+      #importantinfo {background-color: lightgray;
+                      border-style: solid;}
+    </style>
+  </head>
+  <body>
+    <h1><b>HELP!!LOST PUPPY!!</b></h1>
+    <p id="importantinfo">IF FOUND please call <em>828-403-9939</em> or bring Peanut home to <br><em>4783  Hannah Street <br>Charlotte, NC 28202</em></br>.<br>Peanut is a tiny golden puppy! She'll be wearing a blue collar with her name on it!</p>
+      <img src="https://jamespburke.github.io/pix/puppy1.jpg" width="500" length="500">
+  </body>
+</html>
